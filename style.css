@@ -4,7 +4,7 @@
     --botao-preto: #031639;
     --cor-de-fundo: #041e30;
     --fonte-principal: 'Inter';
-    --botao-preto-efeito: ffffff;
+    --botao-preto-efeito: white;
 }
 
 body {
@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url(img/céu.png);
+    background-image: url(céu.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
